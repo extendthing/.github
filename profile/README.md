@@ -1,1 +1,1 @@
-Welcome to `ExtendThing` labolatory, houses repositories of [ExtendThing](https://extendthing.com).
+Welcome to our labolatory,[ExtendThing](https://extendthing.com) houses of repositories.
